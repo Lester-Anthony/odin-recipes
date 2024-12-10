@@ -1,23 +1,15 @@
-* {
-    background-color: rgb(220, 220, 200);
+body {
+    text-align: center;
+    background-color:floralwhite;
 }
 
 h1 {
+    padding: 10px;
     background-color: white;
-    color: rgb(255, 150, 75);
     text-align: center;
 }
 
-h2 {
-    background-color: white;
-    color: rgb(255, 150, 75);
-    text-align: center;
-}
-
-ul, li, a{
-    background-color: white;
-}
-
-a.home-button {
-    background-color: white;
+img {
+    outline: 4px solid white;
+    margin: 0 auto;
 }
